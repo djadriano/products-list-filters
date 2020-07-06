@@ -1,0 +1,368 @@
+{
+  "data": {
+    "allContentfulProductPage": {
+      "edges": [
+        {
+          "node": {
+            "name": "Nikki Lime Leather Sandals",
+            "node_locale": "en",
+            "thumbnailImage": {
+              "file": {
+                "url": "//images.ctfassets.net/bjhrajhd7nqm/5vl0dwakREcYWdzVGyhVxT/2f1bb7a0ae042011a1ffff3d8f1aff59/miista-nikki-lime-mules-6.jpg"
+              }
+            },
+            "colorFamily": [
+              {
+                "name": "Green"
+              }
+            ],
+            "categoryTags": ["Sandals", "Mid-Heels", "New Arrivals"],
+            "shopifyProductEu": {
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": "265.00"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Karolina Scotland Road White Leather Mules",
+            "node_locale": "en",
+            "thumbnailImage": {
+              "file": {
+                "url": "//images.ctfassets.net/bjhrajhd7nqm/7GnX1jOx04Ub383nbCFlw/6bddc627eda7598ebfbdce7aa84ee7a1/miista-karolina-scotland-white-mules-6.jpg"
+              }
+            },
+            "colorFamily": [
+              {
+                "name": "White"
+              }
+            ],
+            "categoryTags": ["Mules", "Mid-Heels", "New Arrivals"],
+            "shopifyProductEu": {
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": "265.00"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Erica Chenywood Woven Leather Mules",
+            "node_locale": "en",
+            "thumbnailImage": {
+              "file": {
+                "url": "//images.ctfassets.net/bjhrajhd7nqm/R88POwT8EBbw0ID9QtOBi/4aaa47790b17c0376455c39240333606/miista-erica-chennywood-mules-5.jpg"
+              }
+            },
+            "colorFamily": [
+              {
+                "name": "Brown"
+              }
+            ],
+            "categoryTags": ["Mules", "Flats", "New Arrivals"],
+            "shopifyProductEu": {
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": "240.00"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Ellie Crab Leather Sandals",
+            "node_locale": "en",
+            "thumbnailImage": {
+              "file": {
+                "url": "//images.ctfassets.net/bjhrajhd7nqm/7v3y4KEAYYmc04i7TaeSFI/800dab11143f940768ae41c69e1079a4/miista-ellie-crab-mules-6.jpg"
+              }
+            },
+            "colorFamily": [
+              {
+                "name": "White"
+              }
+            ],
+            "categoryTags": ["Sandals", "Mid-Heels", "New Arrivals"],
+            "shopifyProductEu": {
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": "265.00"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Dallis Parchment Woven Leather Boots",
+            "node_locale": "en",
+            "thumbnailImage": {
+              "file": {
+                "url": "//images.ctfassets.net/bjhrajhd7nqm/72Q1P8JTVZ537wm3L2lKBz/d860b39eee4e178e66913263a433f993/miista-dallis-parchment-boots-5.jpg"
+              }
+            },
+            "colorFamily": [
+              {
+                "name": "White"
+              }
+            ],
+            "categoryTags": ["Tall Boots", "Mid-Heels", "New Arrivals"],
+            "shopifyProductEu": {
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": "520.00"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Bondi Sand Woven Leather Boots",
+            "node_locale": "en",
+            "thumbnailImage": {
+              "file": {
+                "url": "//images.ctfassets.net/bjhrajhd7nqm/5p5kvFhrkTgycgOsuhZQRm/c392effe44e2ba963b0689a6bb062095/miista-bondi-sand-boots-5.jpg"
+              }
+            },
+            "colorFamily": [
+              {
+                "name": "Brown"
+              }
+            ],
+            "categoryTags": ["Boots", "Mid-Heels", "New Arrivals"],
+            "shopifyProductEu": {
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": "460.00"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Araxie Coffee Woven Leather Mules",
+            "node_locale": "en",
+            "thumbnailImage": {
+              "file": {
+                "url": "//images.ctfassets.net/bjhrajhd7nqm/4vN8a0dd8Kkqri29rzvhmx/31038c0c1cc5ee5b17dfd2e77d87bcbc/miista-araxie-coffee-mules-6.jpg"
+              }
+            },
+            "colorFamily": [
+              {
+                "name": "Brown"
+              }
+            ],
+            "categoryTags": ["Mules", "Mid-Heels", "New Arrivals", "Flats"],
+            "shopifyProductEu": {
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": "260.00"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Driska Off White Woven Leather Sneakers",
+            "node_locale": "en",
+            "thumbnailImage": {
+              "file": {
+                "url": "//images.ctfassets.net/bjhrajhd7nqm/lnmjm6vJIHnjTO9mZJGDp/88182bb360890522362c4dd3588b0cc5/miista-driska-off-white-sneakers-5.jpg"
+              }
+            },
+            "colorFamily": null,
+            "categoryTags": ["Outlet"],
+            "shopifyProductEu": {
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": "285.00"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Nikki Apricot Leather Sandals",
+            "node_locale": "en",
+            "thumbnailImage": {
+              "file": {
+                "url": "//images.ctfassets.net/bjhrajhd7nqm/4NB304J9gOfBj0Lma8qfQX/9b95b29f71a485f444791a84b73f1da5/miista-nikki-apricot-mules-6.jpg"
+              }
+            },
+            "colorFamily": [
+              {
+                "name": "Orange"
+              }
+            ],
+            "categoryTags": null,
+            "shopifyProductEu": {
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": "265.00"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Nikki Black Leather Sandals",
+            "node_locale": "en",
+            "thumbnailImage": {
+              "file": {
+                "url": "//images.ctfassets.net/bjhrajhd7nqm/5tNSSDkPtvXpQPOR8R21WL/bb70de26225fd52d81467f49888f76d8/miista-nikki-black-mules-6.jpg"
+              }
+            },
+            "colorFamily": [
+              {
+                "name": "Black"
+              }
+            ],
+            "categoryTags": ["Sandals", "Mid-Heels", "New Arrivals"],
+            "shopifyProductEu": {
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": "265.00"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Nikki Sand Leather Sandals",
+            "node_locale": "en",
+            "thumbnailImage": {
+              "file": {
+                "url": "//images.ctfassets.net/bjhrajhd7nqm/Ph9x6aEsnrMCDeuovw04r/fea5eded4b162c8720e825af45451d2e/miista-nikki-sand-mules-5.jpg"
+              }
+            },
+            "colorFamily": [
+              {
+                "name": "Natural"
+              }
+            ],
+            "categoryTags": null,
+            "shopifyProductEu": {
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": "265.00"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Loirane Sunshine Woven Leather Heels",
+            "node_locale": "en",
+            "thumbnailImage": {
+              "file": {
+                "url": "//images.ctfassets.net/bjhrajhd7nqm/VBaKKbGcgKzFW7qRiVOJj/a3ee4fe5cfc88f7840b9d40b79cdc96a/miista-loraine-sunshine-mid-heels-6.jpg"
+              }
+            },
+            "colorFamily": [
+              {
+                "name": "Yellow"
+              }
+            ],
+            "categoryTags": ["Court Shoes", "Mid-Heels", "New Arrivals"],
+            "shopifyProductEu": {
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": "260.00"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Kelly Black Leather Boots",
+            "node_locale": "en",
+            "thumbnailImage": {
+              "file": {
+                "url": "//images.ctfassets.net/bjhrajhd7nqm/kRgdlhGZETRGWxiq8fLu6/79944a89bf9cd2d8e70aa8692186dffc/miista-kelly-black-boots-5.jpg"
+              }
+            },
+            "colorFamily": [
+              {
+                "name": "Black"
+              }
+            ],
+            "categoryTags": ["Ankle Boots", "Mid-Heels", "New Arrivals"],
+            "shopifyProductEu": {
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "price": "345.00"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
