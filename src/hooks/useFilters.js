@@ -3,8 +3,8 @@ import { useState, useEffect, useContext, useRef } from "react";
 import { ProductsListContext } from '@/contexts/ProductsList';
 
 function useFilters(type = '') {
-  const { addFilter } = useContext(ProductsListContext);
-  const [selectedFilters, setSelectedFilters] = useState([]);
+  const { addFilter, filters } = useContext(ProductsListContext);
+  const [selectedFilters, setSelectedFilters] = useState(filters[type]);
   const inputMinValue = useRef(null);
   const inputMaxValue = useRef(null);
 

@@ -20,7 +20,7 @@ export async function getStaticProps() {
   }
 }
 
-// Define the filters for the products
+// Define the initial filters for the products
 const pageFilters = {
   colors: [],
   style: [],
