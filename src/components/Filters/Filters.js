@@ -1,6 +1,6 @@
 import { Colors, Style, Price } from '@/components/Filters/Index';
 
-const Filters = ({ colors, style }) => {
+const Filters = ({ colors, style, price }) => {
   return (
     <form className="filters">
       <fieldset>
@@ -15,9 +15,11 @@ const Filters = ({ colors, style }) => {
               <Style items={style} />
             </li>
           )}
-          <li className="fs fs--small">
-            <Price />
-          </li>
+          {price && (
+            <li className="fs fs--small">
+              <Price />
+            </li>
+          )}
         </ul>
       </fieldset>
     </form>
